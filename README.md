@@ -13,7 +13,7 @@ pandas
 
 Clone ou faça o download do repositório.
 Abra um terminal e navegue até a pasta onde se encontra o arquivo classificador_atendimento.py.
-Execute o comando python classificador_atendimento.py para iniciar o programa.
+Execute o comando python classificador_atendimento.ipynb para iniciar o programa.
 Digite o seu nome e a sua opinião sobre o atendimento quando solicitado pelo programa.
 A classificação do seu atendimento será armazenada em um arquivo Excel chamado atendimentos.xlsx.
 
